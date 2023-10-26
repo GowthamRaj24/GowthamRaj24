@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthamraj24&label=Profile%20views&color=0e75b6&style=flat" alt="gowthamraj24" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow 2.0**
+- 🌱 I’m currently learning **NATURAL LANGUAGE PREPROCESSING**
 
 - 📫 How to reach me **mgowthamraj9491@gmail.com**
 
